@@ -17,7 +17,7 @@ public @interface ExcelField {
 	 * 排序
 	 * @return
 	 */
-	int order() default 100;;
+	int order() default 100;
 
 	/**
 	 * 是否是日期
